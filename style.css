@@ -436,6 +436,7 @@ footer{
     .demo-form-card{
     width: 100vw;
     height: auto;
+
     }
 
     .welcome-stats{
@@ -647,7 +648,7 @@ footer{
     .demo-form-card{
     width: 100vw;
     height: auto;
-    margin-top: 0rem;
+    margin-top: -3rem;
     }
 
     .welcome-stats{
@@ -658,6 +659,7 @@ footer{
     .welcome-stats-heading{
         display: block;
         width: 100%;
+        margin-top: 13rem;
         margin-left: 20px;
         margin-right: 80px;
         font-size: 1.2rem;
@@ -714,7 +716,7 @@ footer{
         align-items: center;
         margin-top: 2rem;
         width: 110vw;
-        height: 80vh;
+        height: 100vh;
         color:var(--light-color);
         h2{
             font-size: 3.2rem;
